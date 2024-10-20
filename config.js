@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '', // Enter Your Session ID
-    MONGODB: process.env.MONGODB || '',    // Enter Your MongoDB URL
-    Owner: process.env.OwnerNumber || '94758900210',    // Enter Your Owner Number
-    BotNumber: process.env.BotNumber || '94773366833'    // Enter Your Bot Number
+    SESSION_ID: process.env.SESSION_ID || 'QbMFkJqZ#DHWBhgPjlP66Oh373Qr_yXRZvpjt_HQSzvkcMmS6BOw', // Enter Your Session ID
+    MONGODB: process.env.MONGODB || 'mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/',    // Enter Your MongoDB URL
+    Owner: process.env.OwnerNumber || '94750177369',    // Enter Your Owner Number
+    BotNumber: process.env.BotNumber || '94750177369'    // Enter Your Bot Number
 };
